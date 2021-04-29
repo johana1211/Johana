@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy Full Stack Developer, Me apasiona el poder crear y desarrollar todo tipo de ideas donde pueda aportar todos mis conocimientos como desarrolodor.
+Soy Full Stack Developer, Me apasiona el poder crear y desarrollar todo tipo de ideas donde pueda aportar todos mis conocimientos como desarrollador.
 
 - 🌱 I’m currently learning 😉
 - JavaScript
