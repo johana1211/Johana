@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!--
-**johana1211/Johana1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Full Stack Developer, Me apasiona el poder crear y desarrollar todo tipo de ideas donde pueda aportar todos mis conocimientos como desarrolodor.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning 😉
+- JavaScript
+- React
+- Redux, 
+- Express, 
+- NodeJS
+- Sequelize
+- GraphQL
+- PostgreSQL
 
-- 🌱 I’m currently learning Technology
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
