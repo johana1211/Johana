@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johana</h1>
 
-Soy Full Stack Developer, Me apasiona el poder crear y desarrollar todo tipo de ideas donde pueda aportar todos mis conocimientos como desarrollador.
-
-<h3 align="center">A passionate backend and frontend developer</h3>
+<h3 align="center">
+I am a Full Stack Developer, I am passionate about being able to create and develop all kinds of ideas where I can contribute all my knowledge as a developer.</h3>
 
 - 🔭 I’m currently working on **chat**
 
